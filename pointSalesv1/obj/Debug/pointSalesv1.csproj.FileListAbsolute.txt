@@ -1,0 +1,1669 @@
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.exe.config
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ReporteVentas.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ClienteForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.DangerForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.ErrorForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.NotifyForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.CategoriasForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Properties.Resources.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.CompraForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.DashboardForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.EstadoForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.LoginForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.MarcasForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.PerfileActiveForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ProductosForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ProductHijoForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ProveedoresForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ReportesForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.SaludoForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.TipoUnidadForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.UsuariosForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.VentaForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csproj.GenerateResource.cache
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.exe.licenses
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csproj.CoreCompileInputs.cache
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\pointSalesv1.exe.config
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\pointSalesv1.exe
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\pointSalesv1.pdb
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\netstandard.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.AppContext.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Collections.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.ComponentModel.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Console.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Data.Common.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Globalization.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.Compression.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.Pipes.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Linq.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Http.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Ping.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Primitives.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Requests.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Security.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Sockets.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.ObjectModel.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Reflection.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Resources.Reader.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Resources.Writer.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Claims.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Principal.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Security.SecureString.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Text.Encoding.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Thread.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Timer.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.ValueTuple.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XPath.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\CircularProgressBar.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\FluentValidation.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\MySql.Data.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\WinFormAnimation.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\EnvDTE.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\Google.Protobuf.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ZstdNet.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Memory.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\stdole.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Buffers.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\CircularProgressBar.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\FluentValidation.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\MySql.Data.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csproj.CopyComplete
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.exe
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.pdb
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\RdlCompile.cache
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\RdlCompile.compiled
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ReporteEntrada.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ReporteGanancias.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.BackupForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ConfiguracionForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\MySqlBackup.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\Google.Protobuf.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Buffers.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Memory.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraScheduler.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraScheduler.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ListaProductsForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csprojAssemblyReference.cache
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\pointSalesv1.exe.config
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\pointSalesv1.exe
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\pointSalesv1.pdb
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\netstandard.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.AppContext.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Collections.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.ComponentModel.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Console.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Data.Common.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Globalization.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.IO.Compression.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.IO.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.IO.Pipes.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Linq.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Http.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Ping.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Primitives.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Requests.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Security.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Sockets.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.ObjectModel.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Reflection.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Resources.Reader.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Resources.Writer.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Claims.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Principal.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Security.SecureString.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Text.Encoding.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Thread.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Timer.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.ValueTuple.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XPath.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\CircularProgressBar.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraScheduler.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\FluentValidation.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\Google.Protobuf.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\MySql.Data.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\MySqlBackup.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Buffers.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Memory.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\WinFormAnimation.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ZstdNet.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\EnvDTE.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\stdole.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\CircularProgressBar.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraScheduler.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\FluentValidation.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\Google.Protobuf.pdb
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\Google.Protobuf.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\MySql.Data.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Buffers.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Memory.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.exe.config
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ReporteEntrada.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ReporteGanancias.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ReporteVentas.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.BackupForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ClienteForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.DangerForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.ErrorForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.NotifyForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.CategoriasForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Properties.Resources.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.CompraForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ConfiguracionForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.DashboardForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.EstadoForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ListaProductsForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.LoginForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.MarcasForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.PerfileActiveForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ProductosForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ProductHijoForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ProveedoresForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ReportesForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.SaludoForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.TipoUnidadForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.UsuariosForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.VentaForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csproj.GenerateResource.cache
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.exe.licenses
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\RdlCompile.cache
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\RdlCompile.compiled
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csproj.CoreCompileInputs.cache
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csproj.CopyComplete
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.exe
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.pdb
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.ModalFormSystem.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\bin\Debug\Guna.UI2.dll
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.InboxForm.resources
+C:\Users\Geovanny cortez\source\repos\pointSales\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csprojAssemblyReference.cache
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.exe.config
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.ModalFormSystem.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ReporteEntrada.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ReporteGanancias.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ReporteVentas.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.BackupForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ClienteForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.DangerForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.ErrorForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.NotifyForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.CategoriasForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Properties.Resources.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.CompraForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ConfiguracionForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.DashboardForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.EstadoForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.InboxForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ListaProductsForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.LoginForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.MarcasForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.PerfileActiveForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ProductosForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ProductHijoForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ProveedoresForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ReportesForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.SaludoForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.TipoUnidadForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.UsuariosForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.VentaForm.resources
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csproj.GenerateResource.cache
+G:\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.exe.licenses
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csprojAssemblyReference.cache
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.exe.config
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.ModalFormSystem.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ReporteEntrada.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ReporteGanancias.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ReporteVentas.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.BackupForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ClienteForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.DangerForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.ErrorForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.NotifyForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.CategoriasForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Properties.Resources.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.CompraForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ConfiguracionForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.DashboardForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.EstadoForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.InboxForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ListaProductsForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.LoginForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.MarcasForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.PerfileActiveForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ProductosForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ProductHijoForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ProveedoresForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ReportesForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.SaludoForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.TipoUnidadForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.UsuariosForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.VentaForm.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csproj.GenerateResource.cache
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csproj.CoreCompileInputs.cache
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\pointSalesv1.exe.config
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\pointSalesv1.exe
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\pointSalesv1.pdb
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\netstandard.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.AppContext.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Collections.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Collections.Specialized.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.ComponentModel.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Console.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Data.Common.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Globalization.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.Compression.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.FileSystem.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.Pipes.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Linq.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Linq.Expressions.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Linq.Parallel.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Linq.Queryable.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Http.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.NameResolution.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Ping.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Primitives.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Requests.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Security.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Sockets.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.WebSockets.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.ObjectModel.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Reflection.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Resources.Reader.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Resources.Writer.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Handles.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Claims.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Principal.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Security.SecureString.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Text.Encoding.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Tasks.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Thread.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Timer.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.ValueTuple.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XDocument.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XPath.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\CircularProgressBar.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraScheduler.v20.1.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\FluentValidation.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Google.Protobuf.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\MySql.Data.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\MySqlBackup.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Buffers.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Memory.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\WinFormAnimation.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ZstdNet.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\EnvDTE.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\stdole.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\CircularProgressBar.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraScheduler.v20.1.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\FluentValidation.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Google.Protobuf.pdb
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Google.Protobuf.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\MySql.Data.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Buffers.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Memory.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.Form1.resources
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.exe.licenses
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csproj.CopyComplete
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.exe
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.pdb
+C:\Users\geova\Documents\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ClientesForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\pointSalesv1.exe.config
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\pointSalesv1.exe
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\pointSalesv1.pdb
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\netstandard.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.AppContext.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Collections.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Collections.Specialized.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.ComponentModel.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Console.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Data.Common.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Globalization.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.Compression.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.FileSystem.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.Pipes.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Linq.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Linq.Expressions.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Linq.Parallel.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Linq.Queryable.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Http.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.NameResolution.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Ping.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Primitives.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Requests.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Security.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Sockets.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Net.WebSockets.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.ObjectModel.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Reflection.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Resources.Reader.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Resources.Writer.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Handles.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Claims.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Principal.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Security.SecureString.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Text.Encoding.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Tasks.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Thread.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Timer.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.ValueTuple.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XDocument.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XPath.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\CircularProgressBar.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraScheduler.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\FluentValidation.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Google.Protobuf.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\MySql.Data.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\MySqlBackup.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Buffers.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Memory.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\WinFormAnimation.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ZstdNet.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\EnvDTE.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\stdole.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\CircularProgressBar.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraScheduler.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\FluentValidation.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Google.Protobuf.pdb
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\Google.Protobuf.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\MySql.Data.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Buffers.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Memory.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.exe.config
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.ModalFormSystem.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ReporteEntrada.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ReporteGanancias.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ReporteVentas.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.BackupForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.DangerForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.ErrorForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.NotifyForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.CategoriasForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Properties.Resources.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ClientesForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.CompraForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ConfiguracionForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.DashboardForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.EstadoForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.InboxForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ListaProductsForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.LoginForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.MarcasForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.PerfileActiveForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ProductosForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ProductHijoForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ProveedorForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.registroProveedores.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.SaludoForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.TipoUnidadForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.UsuariosForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.VentaForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csproj.GenerateResource.cache
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.exe.licenses
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csproj.CoreCompileInputs.cache
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csproj.CopyComplete
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.exe
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.pdb
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csprojAssemblyReference.cache
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ChartsForm.resources
+C:\Users\geova\Documents\proyectoCarlos\proyecto yusbania\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.RegistroClientes.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\pointSalesv1.exe.config
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\pointSalesv1.exe
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\pointSalesv1.pdb
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\netstandard.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.AppContext.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Collections.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Collections.Specialized.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.ComponentModel.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Console.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Data.Common.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Globalization.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.Compression.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.FileSystem.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.Pipes.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Linq.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Linq.Expressions.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Linq.Parallel.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Linq.Queryable.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Http.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.NameResolution.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Ping.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Primitives.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Requests.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Security.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.Sockets.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Net.WebSockets.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.ObjectModel.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Reflection.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Resources.Reader.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Resources.Writer.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Handles.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Claims.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Security.Principal.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Security.SecureString.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Text.Encoding.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Tasks.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Thread.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Timer.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.ValueTuple.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XDocument.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XPath.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\CircularProgressBar.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraScheduler.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\FluentValidation.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\Google.Protobuf.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\MySql.Data.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\MySqlBackup.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Buffers.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Memory.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\WinFormAnimation.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ZstdNet.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\EnvDTE.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\stdole.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\CircularProgressBar.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraScheduler.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\FluentValidation.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\Google.Protobuf.pdb
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\Google.Protobuf.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\MySql.Data.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Buffers.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Memory.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csprojAssemblyReference.cache
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.exe.config
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.ModalFormSystem.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ReporteEntrada.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ReporteGanancias.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.ReporteVentas.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.BackupForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ChartsForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.DangerForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.ErrorForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Messages.NotifyForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.CategoriasForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Properties.Resources.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ClientesForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.CompraForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ConfiguracionForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.DashboardForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.EstadoForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.RegistroClientes.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.InboxForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ListaProductsForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.LoginForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.MarcasForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.PerfileActiveForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ProductosForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ProductHijoForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.ProveedorForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.RegistroProveedores.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.SaludoForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.TipoUnidadForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.UsuariosForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.Views.VentaForm.resources
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csproj.GenerateResource.cache
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.exe.licenses
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csproj.CoreCompileInputs.cache
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.csproj.CopyComplete
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.exe
+C:\Users\geova\Documents\proyectoCarlos\pointSalesv1\pointSalesv1\obj\Debug\pointSalesv1.pdb
